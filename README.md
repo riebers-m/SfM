@@ -8,5 +8,5 @@ pip install opencv-python
 pip install numpy
 pip install pyrealsense2
 ```
-Script only works for RealSense Cameras at the moment
+Script only works for RealSense Cameras at the moment. Change for your needs.
 
