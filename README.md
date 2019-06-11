@@ -10,3 +10,5 @@ pip install pyrealsense2
 ```
 Script only works for RealSense Cameras at the moment. Change for your needs.
 
+TODO: Find Fundamental Matrix is not working :(
+
